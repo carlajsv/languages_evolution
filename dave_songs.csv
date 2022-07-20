@@ -1,0 +1,931 @@
+decade,year,title,author,order
+2000,2003,Hey Ya!,OutKast ,1
+2000,2009,I Gotta Feeling,Black Eyed Peas ,2
+2000,2002,Lose Yourself,Eminem ,3
+2000,2004,Yeah!,Usher with Lil’ Jon & Ludacris ,4
+2000,2007,Umbrella,Rihanna with Jay-Z ,5
+2000,2003,Crazy in Love, Beyoncé with Jay-Z ,6
+2000,2006,Crazy,Gnarls Barkley ,7
+2000,2005,We Belong Together,Mariah Carey ,8
+2000,2007,Low,Flo Rida with T-Pain ,9
+2000,2008,Single Ladies (Put a Ring on It), Beyoncé ,10
+2000,2008,Viva La Vida,Coldplay ,11
+2000,2009,Poker Face,Lady Gaga ,12
+2000,2009,Boom Boom Pow,Black Eyed Peas ,13
+2000,2009,Tik Tok,Ke$ha ,14
+2000,2005,Gold Digger,Kanye West with Jamie Foxx ,15
+2000,2007,Bleeding Love,Leona Lewis ,16
+2000,2008,Just Dance,Lady Gaga with Colby O’Donnis ,17
+2000,2008,I’m Yours,Jason Mraz ,18
+2000,2002,In Da Club,50 Cent ,19
+2000,2006,Irreplaceable, Beyoncé ,20
+2000,2006,Sexyback,Justin Timberlake ,21
+2000,2006,Hips Don’t Lie,Shakira with Wyclef Jean ,22
+2000,2002,Hot in Herre,Nelly ,23
+2000,2001,Fallin’,Alicia Keys ,24
+2000,2005,You’re Beautiful,James Blunt ,25
+2000,2007,No One,Alicia Keys ,26
+2000,2001,Can’t Get You Out of My Head,Kylie Minogue ,27
+2000,2008,I Kissed a Girl,Katy Perry ,28
+2000,2001,How You Remind Me,Nickelback ,29
+2000,2007,Apologize,One Republic with Timbaland ,30
+2000,2004,Boulevard of Broken Dreams,Green Day ,31
+2000,2009,Need You Now,Lady Antebellum ,32
+2000,2009,Empire State of Mind,Jay-Z with Alicia Keys ,33
+2000,2009,Bad Romance,Lady Gaga ,34
+2000,2000,Music,Madonna ,35
+2000,2005,Bad Day,Daniel Powter ,36
+2000,2002,Dilemma,Nelly with Kelly Rowland ,37
+2000,2000,Stan,Eminem with Dido ,38
+2000,2008,Love Story,Taylor Swift ,39
+2000,2000,Beautiful Day,U2 ,40
+2000,2006,Rehab,Amy Winehouse ,41
+2000,2003,Seven Nation Army,The White Stripes ,42
+2000,2007,Big Girls Don’t Cry (Personal),Fergie ,43
+2000,2004,Mr. Brightside,The Killers ,44
+2000,2004,Take Me Out,Franz Ferdinand ,45
+2000,2008,You Belong with Me,Taylor Swift ,46
+2000,2002,Clocks,Coldplay ,47
+2000,2000,Kryptonite,3 Doors Down ,48
+2000,2000,Independent Women,Destiny’s Child ,49
+2000,2007,Hey There Delilah,Plain White T’s ,50
+2000,2008,Use Somebody,Kings of Leon ,51
+2000,2001,Get Ur Freak On,Missy Elliott ,52
+2000,2001,Lady Marmalade,"Christina Aguilera with Lil’ Kim, Mya, & Pink ",53
+2000,2006,Chasing Cars,Snow Patrol ,54
+2000,2003,The Reason,Hoobastank ,55
+2000,2009,"Hey, Soul Sister",Train ,56
+2000,2008,Disturbia,Rihanna ,57
+2000,2002,Complicated,Avril Lavigne ,58
+2000,2004,Since U Been Gone,Kelly Clarkson ,59
+2000,2008,Hot N Cold,Katy Perry ,60
+2000,2006,Promiscuous,Nelly Furtado with Timbaland ,61
+2000,2004,Toxic,Britney Spears ,62
+2000,2000,I Hope You Dance,Lee Ann Womack ,63
+2000,2009,Right Round,Flo Rida & Ke$ha  ,64
+2000,2007,Stronger,Kanye West with Daft Punk ,65
+2000,2000,Yellow,Coldplay ,66
+2000,2000,Ms. Jackson,OutKast ,67
+2000,2003,Where Is the Love?,Black Eyed Peas with Justin Timberlake ,68
+2000,2002,Without Me,Eminem ,69
+2000,2008,Live Your Life,T.I. with Rihanna ,70
+2000,2000,Bye Bye Bye,N Sync ,71
+2000,2001,Drops of Jupiter (Tell Me),Train ,72
+2000,2008,So What,Pink ,73
+2000,2005,Hollaback Girl,Gwen Stefani ,74
+2000,2001,Hero,Enrique Iglesias ,75
+2000,2003,Hurt,Johnny Cash ,76
+2000,2008,Lollipop,Lil Wayne with Static Major ,77
+2000,2005,How to Save a Life,The Fray ,78
+2000,2002,Foolish,Ashanti with Ja Rule ,79
+2000,2007,Crank That (Soulja Boy), Soulja Boy Tell’em ,80
+2000,2005,Hung Up,Madonna ,81
+2000,2007,Paper Planes,MIA ,82
+2000,2004,Let Me Love You,Mario ,83
+2000,2003,Bring Me to Life,Evanesence with Paul McCoy ,84
+2000,2002,This Love,Maroon 5 ,85
+2000,2007,Love Song,Sara Bareilles ,86
+2000,2008,Whatever You Like,T.I. ,87
+2000,2005,Don’t Cha,.Pussycat Dolls with Busta Rhymes ,88
+2000,2005,Candy Shop,50 Cent with Olivia ,89
+2000,2009,Fireflies,Owl City ,90
+1920,1920,Swanee,Al Jolson ,1
+1920,1927,My Blue Heaven,Gene Austin ,2
+1920,1920,Whispering,Paul Whiteman ,3
+1920,1922,April Showers,Al Jolson ,4
+1920,1925,St. Louis Blues,Bessie Smith with Louis Armstrong ,5
+1920,1924,It Had to Be You,Isham Jones ,6
+1920,1925,The Prisoner’s Song,Vernon Dalhart ,7
+1920,1920,Dardanella,Ben Selvin ,8
+1920,1925,Tea for Two,Marion Harris ,9
+1920,1928,Ol’ Man River,Paul Whiteman with Bing Crosby ,10
+1920,1929,Ain’t Misbehavin’,Thomas “Fats” Waller ,11
+1920,1928,I Can’t Give You Anything But Love,Cliff Edwards ,12
+1920,1926,Always,"George Olsen with Fran Frey, Bob Rice & Edward Joyce ",13
+1920,1928,Sonny Boy,Al Jolson ,14
+1920,1927,Blue Skies,Ben Selvin ,15
+1920,1921,Ain’t We Got Fun?,Van & Schenck ,16
+1920,1927,Someone to Watch Over Me,Gertrude Lawrence ,17
+1920,1922,Three O’Clock in the Morning,Paul Whiteman ,18
+1920,1925,Sweet Georgia Brown,Ben Bernie ,19
+1920,1929,Tip-Toe Thru the Tulips with Me,Nick Lucas ,20
+1920,1924,Rhapsody in Blue,Paul Whiteman with George Gershwin ,21
+1920,1923,Carolina in the Morning,Van & Schenck ,22
+1920,1928,My Melancholy Baby, Gene Austin ,23
+1920,1924,"California, Here I Come",Al Jolson with Isham Jones ,24
+1920,1923,Down Hearted Blues,Bessie Smith ,25
+1920,1926,"Bye Bye, Blackbird",Gene Austin ,26
+1920,1925,Yes Sir! That’s My Baby,Gene Austin with Billy Carpenter ,27
+1920,1928,The Man I Love,Marion Harris ,28
+1920,1921,My Mammy,Paul Whiteman ,29
+1920,1929,Singin’ in the Rain,Cliff Edwards ,30
+1920,1923,Yes! We Have No Bananas,Billy Jones ,31
+1920,1925,If You Knew Susie Like I Know Susie,Eddie Cantor ,32
+1920,1924,It Ain’t Gonna Rain No Mo’,Wendall Hall ,33
+1920,1926,Valencia (A Song of Spain),Paul Whiteman with Franklyn Baur ,34
+1920,1925,Manhattan,Ben Selvin ,35
+1920,1924,What’ll I Do?,Paul Whiteman ,36
+1920,1929,Makin’ Whoopee,Eddie Cantor ,37
+1920,1921,Margie,Eddie Cantor ,38
+1920,1920,The Japanese Sandman,Paul Whiteman ,39
+1920,1925,I’ll See You in My Dreams,Isham Jones with Ray Miller & Frank Bessinger ,40
+1920,1927,Ain’t She Sweet,Ben Bernie with Scrappy Lambert & Billy Hillpot ,41
+1920,1924,Somebody Loves Me,Paul Whiteman ,42
+1920,1924,Charleston,Arthur Gibbs & His Gang ,43
+1920,1922,My Man (Mon Homme),Fanny Brice ,44
+1920,1928,Ramona,Gene Austin with Nat Shilkret & Viola Klaiss ,45
+1920,1925,All Alone,Al Jolson ,46
+1920,1926,The Birth of the Blues,"Paul Whiteman with Jack Fulton, Charles Gaylord, & Austin Young ",47
+1920,1922,"Toot, Toot, Tootsie! (Goo’bye)",Al Jolson ,48
+1920,1921,Look for the Silver Lining,Marion Harris ,49
+1920,1927,Me and My Shadow,Whisperin’ Jack Smith ,50
+1920,1926,Who?,George Olsen ,51
+1920,1926,Baby Face,Jan Garber with Benny Davis ,52
+1920,1929,Love Me or Leave Me,Ruth Etting ,53
+1920,1922,My Buddy,Henry Burr ,54
+1920,1921,Wabash Blues,Isham Jones ,55
+1920,1920,When My Baby Smiles at Me,Ted Lewis & His Band ,56
+1920,1929,Am I Blue?,Ethel Waters ,57
+1920,1928,Blue Yodel #1 (T for Texas),Jimmy Rodgers ,58
+1920,1922,The Sheik of Araby,Ray Miller & His Orchestra ,59
+1920,1921,All by Myself,Ted Lewis ,60
+1920,1926,I’m Sitting on Top of the World,Al Jolson ,61
+1920,1920,Wang Wang Blues,Paul Whiteman ,62
+1920,1924,Somebody Stole My Gal,Ted Weems ,63
+1920,1920,Crazy Blues,Mamie Smith & Her Jazz Hounds ,64
+1920,1922,Chicago (That Toddlin’ Town),Ben Selvin ,65
+1920,1922,"Mr. Gallagher and Mr. Shean – “Positively, Mr. Gallagher?”",Ed Gallagher & Al Shean ,66
+1920,1927,Charmaine!,Guy Lombardo with Weston Vaughan ,67
+1920,1928,West End Blues,Louis Armstrong ,68
+1920,1923,That Old Gang of Mine,Billy Murray with Ed Smalle ,69
+1920,1922,Second Hand Rose,Fanny Brice ,70
+1920,1920,I’ll Be with You in Apple Blossom Time,Charles Harrison ,71
+1920,1923,Parade of the Wooden Soldiers,Paul Whiteman ,72
+1920,1922,Stumbling,Paul Whiteman ,73
+1920,1929,Honey,Rudy Vallee ,74
+1920,1921,Say It with Music,Paul Whiteman ,75
+1920,1929,Carolina Moon,Gene Austin ,76
+1920,1928,Ah! Sweet Mystery of Life,Fred Waring with Tom Waring ,77
+1920,1926,"Five Foot Two, Eyes of Blue",Gene Austinwith Nat Shilkret’s Orchestra ,78
+1920,1923,Swingin’ Down the Lane,Isham Jones ,79
+1920,1922,I’m Just Wild about Harry,Marion Harris ,80
+1920,1928,Among My Souvenirs,"Paul Whiteman with Jack Fulton, Charles Gaylord, & Austin Young ",81
+1920,1926,"When the Red, Red Robin Comes Bob, Bob, Bobbin’ Along",Al Jolson ,82
+1920,1926,Sleepy Time Gal,Ben Bernie with Arthur Fields ,83
+1920,1920,The Love Nest,John Steel ,84
+1920,1928,Wildwood Flower,The Carter Family ,85
+1920,1925,America the Beautiful,Louise Homer ,86
+1920,1929,Louise,Maurice Chevalier ,87
+1920,1923,I Cried for You,Benny Krueger ,88
+1920,1927,Side by Side,Paul Whiteman with the Rhythm Boys ,89
+1920,1924,Linger Awhile,Paul Whiteman ,90
+1920,1922,Hot Lips (He's Got Hot Lips When He Plays Jazz),Paul Whiteman ,91
+1920,1928,I Wanna Be Loved by You,Helen Kane with Leonard Joy’s Orchestra ,92
+1920,1924,I Want to Be Happy,Vincent Lopez ,93
+1920,1920,Avalon,Al Jolson ,94
+1920,1922,Way Down Yonder in New Orleans,Peerless Quartet ,95
+1920,1928,"Sweet Sue, Just You",Ben Pollack with Franklyn Baur ,96
+1920,1929,"Lover, Come Back to Me",Paul Whiteman with Jack Fulton ,97
+1920,1925,"Oh, Lady Be Good",Paul Whiteman ,98
+1920,1925,Everybody Loves My Baby,Aileen Stanley ,99
+1920,1929,With a Song in My Heart,Leo Reisman with Ran Weeks ,100
+1930,1939,Over the Rainbow,Judy Garland ,1
+1930,1932,Night and Day,Fred Astaire with Leo Reisman ,2
+1930,1939,In the Mood,Glenn Miller ,3
+1930,1935,Cheek to Cheek,Fred Astaire with Leo Reisman ,4
+1930,1933,Stormy Weather (Keeps Rainin' All the Time),Ethel Waters ,5
+1930,1938,Begin the Beguine,Artie Shaw ,6
+1930,1936,The Way You Look Tonight,Fred Astaire with Johnny Green ,7
+1930,1936,Pennies from Heaven,Bing Crosby with George Stoll ,8
+1930,1938,"A-Tisket, A-Tasket",Ella Fitzgerald with Chick Webb ,9
+1930,1939,All the Things You Are,Tommy Dorsey with Jack Leonard ,10
+1930,1935,Silent Night,Bing Crosby ,11
+1930,1933,Smoke Gets in Your Eyes,Paul Whiteman with Bob Lawrence ,12
+1930,1931,Mood Indigo,Duke Ellington ,13
+1930,1930,I Got Rhythm,Red Nichols ,14
+1930,1939,Deep Purple,Larry Clinton with Bea Wain ,15
+1930,1930,Happy Days Are Here Again,Ben Selvin ,16
+1930,1939,God Bless America,Kate Smith ,17
+1930,1932,"Brother, Can You Spare a Dime?",Rudy Vallee ,18
+1930,1935,Blue Moon,Glen Gray with Kenny Sargent ,19
+1930,1935,I’m in the Mood for Love,Little Jack Little ,20
+1930,1939,Strange Fruit,Billie Holiday ,21
+1930,1930,On the Sunny Side of the Street,Ted Lewis & His Band ,22
+1930,1931,Minnie the Moocher (The Ho De Ho Song),Cab Calloway ,23
+1930,1930,Puttin’ on the Ritz,Harry Richman with Earl Burtnett & His Los Angeles Biltmore Hotel Orchestra ,24
+1930,1937,They Can’t Take That Away from Me,Fred Astaire with Johnny Green ,25
+1930,1933,The Last Round-Up,George Olsen with Joe Morrison ,26
+1930,1939,If I Didn’t Care,The Ink Spots ,27
+1930,1936,I’ve Got You Under My Skin,Ray Noble ,28
+1930,1937,Sweet Leilani,Bing Crosby with Lani McIntire & His Hawaiians ,29
+1930,1939,All or Nothing at All,Harry James with Frank Sinatra ,30
+1930,1930,The Peanut Vendor (El Manisero),Don Azpiazu with Antonio Machin ,31
+1930,1933,Sophisticated Lady,Duke Ellington ,32
+1930,1932,In a Shanty in Old Shanty Town,Ted Lewis & His Band ,33
+1930,1930,Stein Song (University of Maine),Rudy Vallee ,34
+1930,1938,Bei Mir Bist Du Schon (Means That You’re Grand),The Andrews Sisters ,35
+1930,1932,Dinah,Bing Crosby & the Mills Brothers ,36
+1930,1932,All of Me,Louis Armstrong ,37
+1930,1936,Summertime,Billie Holiday ,38
+1930,1939,Moonlight Serenade,Glenn Miller ,39
+1930,1931,"Goodnight, Sweetheart",Wayne King with Ernie Birchill ,40
+1930,1933,42nd Street,Don Bestor with Dudley Mecum ,41
+1930,1934,Let’s Fall in Love,Eddy Duchin with Lew Sherwood ,42
+1930,1933,Lover,Paul Whiteman with Jack Fulton ,43
+1930,1938,I Can’t Get Started,Bunny Berigan ,44
+1930,1939,September Song,Walter Huston ,45
+1930,1938,"Sing, Sing, Sing (With a Swing)",Benny Goodman ,46
+1930,1934,The Very Thought of You,Ray Noble with Al Bowlly ,47
+1930,1937,That Old Feeling,Shep Fields with Bob Goday ,48
+1930,1934,Winter Wonderland,Guy Lombardo ,49
+1930,1938,Wabash Cannonball,Roy Acuff & the Smoky Mountain Boys ,50
+1930,1935,Honeysuckle Rose,Thomas “Fats” Waller ,51
+1930,1934,Stars Fell on Alabama,Guy Lombardo with Carmen Lombardo ,52
+1930,1932,It Don’t Mean a Thing if It Ain’t Got That Swing,Duke Ellington ,53
+1930,1936,These Foolish Things Remind Me of You,Benny Goodman with Helen Ward ,54
+1930,1935,Lullaby of Broadway,The Dorsey Brothers with Bob Crosby ,55
+1930,1938,Jeepers Creepers,Al Donahue with Paula Kelly ,56
+1930,1932,How Deep Is the Ocean?,Guy Lombardo with Carmen Lombardo ,57
+1930,1937,Once in a While,Tommy Dorsey ,58
+1930,1937,September in the Rain,Guy & Carmen Lombardo ,59
+1930,1933,Lazy Bones,Ted Lewis ,60
+1930,1936,A Fine Romance (A Sarcastic Love Song),Fred Astaire with Johnny Green & His Orchestra ,61
+1930,1938,My Reverie,Larry Clinton with Bea Wain ,62
+1930,1934,Isle of Capri,Ray Noble with Al Bowlly ,63
+1930,1939,South of the Border (Down Mexico Way),Shep Fields with Hal Derwin ,64
+1930,1931,Out of Nowhere,Bing Crosby with Victor Young ,65
+1930,1930,Embraceable You,Red Nichols ,66
+1930,1934,June in January,Bing Crosby with George Stoll’s Orchestra ,67
+1930,1938,Whistle While You Work,The Seven Dwarfs ,68
+1930,1930,What Is This Thing Called Love?,Leo Reisman ,69
+1930,1932,Paradise,Leo Reisman with Frances Maddux ,70
+1930,1935,Red Sails in the Sunset,Guy & Carmen Lombardo ,71
+1930,1937,Where or When,Hal Kemp with Bob Allen ,72
+1930,1938,You Must Have Been a Beautiful Baby,Bing Crosby ,73
+1930,1934,The Continental (You Kiss While We’re Dancing),Leo Reisman ,74
+1930,1934,Tumbling Tumbleweeds,Sons of the Pioneers ,75
+1930,1937,One O’Clock Jump,Count Basie ,76
+1930,1930,Little White Lies,Fred Waring with Clare Hanlon ,77
+1930,1933,The Old Spinning Wheel,Ray Noble with Al Bowlly ,78
+1930,1931,Sweet and Lovely,Gus Arnheim with Donald Novis ,79
+1930,1936,Goody Goody,Benny Goodman with Helen Ward ,80
+1930,1939,Beer Barrell Polka,Will Glahe ,81
+1930,1931,Dream a Little Dream of Me,Wayne King with Ernie Birchill ,82
+1930,1936,Alone,Tommy Dorsey with Cliff Weston ,83
+1930,1930,Three Little Words,Duke Ellington ,84
+1930,1939,And the Angels Sing ,Benny Goodman with Martha Tilton ,85
+1930,1934,I’ll String Along with You,Ted Fio Rito with Muzzy Marcellino ,86
+1930,1938,"Music, Maestro, Please",Tommy Dorsey with Edythe Wright ,87
+1930,1937,Thanks for the Memory,Shep Fields with Bob Goday ,88
+1930,1931,Love for Sale,Libby Holman with Dick Robertson ,89
+1930,1934,I Get a Kick Out of You,Johnny Green with Ethel Merman ,90
+1930,1939,When the Saints Go Marching In,Louis Armstrong ,91
+1930,1931,I Found a Million Dollar Baby in a Five and Ten Cent Store,Fred Waring with Clare Hanlon ,92
+1930,1933,You’re Getting to Be a Habit with Me,Bing Crosby with Guy Lombardo’s Orchestra ,93
+1930,1934,Cocktails for Two,Duke Ellington ,94
+1930,1937,Marie,Tommy Dorsey ,95
+1930,1937,Too Marvelous for Words,Bing Crosby with Jimmy Dorsey’s Orchestra ,96
+1930,1932,"Brother, Can You Spare a Dime?",Bing Crosby with Lennie Hayton’s Orchestra ,97
+1930,1930,Exactly Like You,Ruth Etting ,98
+1930,1934,The Carioca,Enric Madriguera with Patricia Gillmore ,99
+1930,1932,Willow Weep for Me,Paul Whiteman with Irene Taylor ,100
+1940,1942,White Christmas,Bing Crosby with the Ken Darby Singers,1
+1940,1941,Stardust,Artie Shaw,2
+1940,1949,"Rudolph, the Red-Nosed Reindeer",Gene Autry,3
+1940,1945,Sentimental Journey,Les Brown with Doris Day,4
+1940,1943,Paper Doll,The Mills Brothers,5
+1940,1942,As Time Goes By,Dooley Wilson,6
+1940,1947,Near You,Francis Craig with Bob Lamm,7
+1940,1940,I’ll Never Smile Again,Tommy Dorsey with Frank Sinatra & The Pied Pipers,8
+1940,1941,Chattanooga Choo Choo,Glenn Miller with Tex Beneke & the Four Modernaires,9
+1940,1946,The Christmas Song,Nat “King” Cole,10
+1940,1949,Riders in the Sky (A Cowboy Legend),Vaughn Monroe,11
+1940,1944,Swinging on a Star,Bing Crosby with John Scott Trotter’s Orchestra & the Williams Brothers Quartet,12
+1940,1940,Body and Soul,Coleman Hawkins,13
+1940,1948,Buttons and Bows,Dinah Shore and Her Harper Valley Boys,14
+1940,1940,When You Wish Upon a Star,Cliff Edwards,15
+1940,1947,Peg O’ My Heart,The Harmonicats,16
+1940,1944,I’ll Be Seeing You,Bing Crosby with John Scott Trotter’s Orchestra,17
+1940,1940,Frenesi,Artie Shaw,18
+1940,1946,The Gypsy,The Ink Spots,19
+1940,1943,I’ve Heard That Song Before,Harry James with Helen Forrest,20
+1940,1941,Blues in the Night (My Mama Done Tol’ Me),Woody Herman,21
+1940,1949,Some Enchanted Evening,Perry Como,22
+1940,1942,For Me and My Gal,Judy Garland & Gene Kelly,23
+1940,1944,Don’t Fence Me In,Bing Crosby with the Andrews Sisters,24
+1940,1941,Take the ‘A’ Train,Duke Ellington,25
+1940,1948,Twelfth Street Rag,Pee Wee Hunt,26
+1940,1948,Nature Boy,Nat “King” Cole with Frank DeVol,27
+1940,1945,Till the End of Time,Perry Como,28
+1940,1944,This Land Is Your Land,Woody Guthrie,29
+1940,1943,You’ll Never Know,Dick Haymes with the Song Spinners,30
+1940,1943,That Old Black Magic,Glenn Miller with Skip Nelson,31
+1940,1945,Rum and Coca-Cola,The Andrews Sisters,32
+1940,1941,Amapola (Pretty Little Poppy),Jimmy Dorsey with Bob Eberly & Helen O’Connell,33
+1940,1945,Ac-Cent-Tchu-ate the Positive,Johnny Mercer with the Pied Pipers,34
+1940,1947,Heartaches,Ted Weems with Elmo Tanner,35
+1940,1943,Pistol Packin’ Mama,Al Dexter,36
+1940,1945,Let It Snow! Let It Snow! Let It Snow!,Vaughn Monroe,37
+1940,1944,Besame Mucho (Kiss Me Much),Jimmy Dorsey with Bob Eberly & Kitty Kallen,38
+1940,1947,Ballerina,Vaughn Monroe,39
+1940,1948,I’m Looking Over a Four-Leaf Clover,Art Mooney,40
+1940,1943,"Sunday, Monday or Always",Bing Crosby with the Ken Darby Singers,41
+1940,1944,I’ll Get By As Long As I Have You,Harry James with Dick Haymes,42
+1940,1949,Cruising Down the River,Blue Barron & His Orchestra,43
+1940,1945,"On the Atchison, Topeka and Santa Fe",Johnny Mercer with the Pied Pipers,44
+1940,1949,I’m So Lonesome I Could Cry,Hank Williams,45
+1940,1942,"Jingle, Jangle, Jingle",Kay Kyser with Harry Babbitt & Julie Conway,46
+1940,1942,Moonlight Cocktail,Glenn Miller with Ray Eberle & The Modernaires,47
+1940,1942,I’ve Got a Gal in Kalamazoo,Glenn Miller with Tex Beneke & Marion Hutton,48
+1940,1943,People Will Say We’re In Love,Bing Crosby with Trudy Erwin,49
+1940,1946,Oh What It Seemed to Be,Frankie Carle with Marjorie Hughes,50
+1940,1945,There! I’ve Said It Again,Vaughn Monroe,51
+1940,1949,That Lucky Old Sun,"Frankie Laine with Judd Conlon’s Rhythmaires, Harry Geller’s Orchestra, & Carl Fischer Orchestra",52
+1940,1946,I Love You for Sentimental Reasons,The Nat “King” Cole Trio,53
+1940,1942,Tangerine,Jimmy Dorsey’s Orchestra with Bob Eberly & Helen O’Connell,54
+1940,1941,Daddy,Sammy Kaye,55
+1940,1941,Boogie Woogie Bugle Boy,The Andrews Sisters,56
+1940,1941,God Bless the Child,Billie Holiday,57
+1940,1940,Tuxedo Junction,Glenn Miller,58
+1940,1944,The Trolley Song,Judy Garland,59
+1940,1940,Fools Rush in Where Angels Fear to Tread,Glenn Miller,60
+1940,1940,The Woodpecker Song,Glenn Miller with Marion Hutton,61
+1940,1945,It Might As Well Be Spring,Dick Haymes,62
+1940,1942,There Are Such Things,Tommy Dorsey with Frank Sinatra & The Pied Pipers,63
+1940,1942,Don’t Sit Under the Apple Tree with Anyone Else But Me,Glenn Miller with Tex Beneke & the Modernaires,64
+1940,1948,Manana Is Soon Enough for Me,Peggy Lee,65
+1940,1946,To Each His Own,Eddy Howard,66
+1940,1947,Smoke! Smoke! Smoke! That Cigarette,Tex Williams,67
+1940,1940,Taking a Chance on Love,Benny Goodman with Helen Forrest,68
+1940,1948,Now Is the Hour (Māori Farewell Song),Bing Crosby with the Ken Darby Singers,69
+1940,1944,Long Ago and Far Away,Helen Forrest with Dick Haymes,70
+1940,1949,You’re Breaking My Heart,Vic Damone,71
+1940,1943,Shoo-Shoo Baby,The Andrews Sisters,72
+1940,1943,I’ll Be Home for Christmas,Bing Crosby with John Scott Trotter’s Orchestra,73
+1940,1941,Green Eyes (Aquellos Ojos Verdes),Jimmy Dorsey with Bob Eberly & Helen O’Connell,74
+1940,1941,There’ll Be Some Changes Made,Benny Goodman with Louise Tobim,75
+1940,1948,Move on Up a Little Higher,Mahalia Jackson,76
+1940,1944,You Always Hurt the One You Love,The Mills Brothers,77
+1940,1947,Santa Claus Is Coming to Town,Bing Crosby with the Andrews Sisters,78
+1940,1943,Don’t Get Around Much Anymore,The Ink Spots,79
+1940,1945,If I Loved You,Perry Como,80
+1940,1949,Boogie Chillen,John Lee Hooker,81
+1940,1948,A Tree in the Meadow,Margaret Whiting,82
+1940,1945,Dream (When You’re Feeling Blue),The Pied Pipers with Paul Weston,83
+1940,1945,My Funny Valentine,Hal McIntyre with Ruth Gaylor,84
+1940,1949,"I Can Dream, Can’t I?",The Andrews Sisters,85
+1940,1949,Mule Train,Frankie Laine & the Muleskinners,86
+1940,1948,A Little Bird Told Me,Evelyn Knight & Stardusters,87
+1940,1943,I Had the Craziest Dream,Harry James with Helen Forrest,88
+1940,1945,Laura,Woody Herman,89
+1940,1944,I’ll Walk Alone,Dinah Shore,90
+1950,1954,We’re Gonna Rock Around the Clock,Bill Haley & His Comets,1
+1950,1959,Mack the Knife,Bobby Darin,2
+1950,1956,Don’t Be Cruel,Elvis Presley,3
+1950,1956,Heartbreak Hotel,Elvis Presley,4
+1950,1956,Hound Dog,Elvis Presley,5
+1950,1957,Jailhouse Rock,Elvis Presley,6
+1950,1958,Johnny B. Goode,Chuck Berry,7
+1950,1950,Tennessee Waltz,Patti Page,8
+1950,1957,All Shook Up,Elvis Presley,9
+1950,1959,What’d I Say,Ray Charles,10
+1950,1958,All I Have to Do Is Dream,The Everly Brothers,11
+1950,1957,That’ll Be the Day,Buddy Holly & the Crickets,12
+1950,1951,How High the Moon,Les Paul & Mary Ford,13
+1950,1950,Goodnight Irene,The Weavers with Gordon Jenkins’ Orchestra,14
+1950,1959,I Only Have Eyes for You,The Flamingos,15
+1950,1957,Great Balls of Fire,Jerry Lee Lewis,16
+1950,1956,Blue Suede Shoes,Carl Perkins,17
+1950,1957,Whole Lotta Shakin’ Goin’ On,Jerry Lee Lewis,18
+1950,1952,You Belong to Me,Jo Stafford,19
+1950,1954,Earth Angel (Will You Be Mine),The Penguins,20
+1950,1956,Love Me Tender,Elvis Presley,21
+1950,1950,Mona Lisa,Nat “King” Cole,22
+1950,1955,Tutti Frutti,Little Richard,23
+1950,1955,Sixteen Tons,Tennessee Ernie Ford,24
+1950,1957,At the Hop,Danny & the Juniors,25
+1950,1956,Why Do Fools Fall in Love?,Frankie Lymon & the Teenagers,26
+1950,1956,Blueberry Hill,Fats Domino,27
+1950,1957,You Send Me,Sam Cooke,28
+1950,1958,La Bamba,Ritchie Valens,29
+1950,1957,Peggy Sue,Buddy Holly & the Crickets,30
+1950,1959,The Battle of New Orleans,Johnny Horton,31
+1950,1955,The Great Pretender,The Platters,32
+1950,1956,I Walk the Line,Johnny Cash,33
+1950,1957,Diana,Paul Anka,34
+1950,1957,Wake Up Little Susie,The Everly Brothers,35
+1950,1958,Volare (Nel Blu Dipinto Di Blue),Domenico Modugno,36
+1950,1955,Maybellene,Chuck Berry,37
+1950,1958,Tom Dooley,The Kingston Trio,38
+1950,1956,In the Still of the Nite,The Five Satins,39
+1950,1958,The Little Drummer Boy,Harry Simeone Chorale,40
+1950,1951,Cry,Johnnie Ray & the Four Lads,41
+1950,1955,Only You (And You Alone),The Platters,42
+1950,1957,Bye Bye Love,The Everly Brothers,43
+1950,1958,Tequila,The Champs,44
+1950,1956,Singing the Blues,Guy Mitchell,45
+1950,1957,Let Me Be Your Teddy Bear,Elvis Presley,46
+1950,1953,Vaya Con Dios (May God Be with You),Les Paul & Mary Ford,47
+1950,1958,Summertime Blues,Eddie Cochran,48
+1950,1955,The Yellow Rose of Texas,Mitch Miller Chorus,49
+1950,1954,"That’s All Right, Mama",Elvis Presley,50
+1950,1954,Secret Love,Doris Day,51
+1950,1958,Smoke Gets in Your Eyes,The Platters,52
+1950,1951,It’s All in the Game,Tommy Edwards,53
+1950,1950,The Third Man Theme,Anton Karas,54
+1950,1954,,The Chords,55
+1950,1959,Shout (Parts 1 and 2),The Isley Brothers,56
+1950,1954,Mr. Sandman,The Chordettes,57
+1950,1955,April in Paris,Count Basie,58
+1950,1953,Where Is Your Heart (Song from ‘Moulin Rouge’),Percy Faith with Felicia Sanders,59
+1950,1957,Love Letters in the Sand,Pat Boone,60
+1950,1954,"Shake, Rattle and Roll",Big Joe Turner,61
+1950,1958,Be-Bop-A-Lula,Gene Vincent & His Blue Caps,62
+1950,1955,Ain’t That a Shame,Fats Domino,63
+1950,1953,Your Cheatin’ Heart,Hank Williams,64
+1950,1950,"Bewitched, Bothered and Bewildered",Bill Snyder,65
+1950,1956,Long Tall Sally,Little Richard,66
+1950,1954,Sincerely,The McGuire Sisters,67
+1950,1951,Too Young,Nat “King” Cole,68
+1950,1955,Bo Diddley,Bo Diddley,69
+1950,1954,Little Things Mean a Lot,Kitty Kallen,70
+1950,1951,Because of You,Tony Bennett,71
+1950,1955,Cherry Pink and Apple Blossom White,Perez “Prez” Prado,72
+1950,1959,Kansas City,Wibert Harrison,73
+1950,1959,El Paso,Marty Robbins,74
+1950,1953,Crying in the Chapel,The Orioles,75
+1950,1956,"Que Sera Sera (Whatever Will Be, Will Be)",Doris Day,76
+1950,1955,Love Is a Many-Splendored Thing,The Four Aces,77
+1950,1952,Auf Wiederseh’n Sweetheart,Vera Lynn,78
+1950,1952,I Saw Mommy Kissing Santa Claus,Jimmy Boyd,79
+1950,1959,He’ll Have to Go,Jim Reeves,80
+1950,1952,Wheel of Fortune,Kay Starr,81
+1950,1959,Take Five,Dave Brubeck,82
+1950,1955,Autumn Leaves,Roger Williams,83
+1950,1955,The Ballad of Davy Crocket,Bill Hayes,84
+1950,1952,Tenderly,Rosemary Clooney,85
+1950,1953,The Doggie in the Window,Patti Page,86
+1950,1956,Young Love,Sonny James,87
+1950,1951,"Cold, Cold Heart",Hank Williams,88
+1950,1958,Donna,Ritchie Valens,89
+1950,1958,The Chipmunk Song (Christmas Don’t Be Late),The Chipmunks,90
+1960,1968,Hey Jude,The Beatles,1
+1960,1965,(I Can’t Get No) Satisfaction,The Rolling Stones,2
+1960,1963,I Want to Hold Your Hand,The Beatles,3
+1960,1967,Respect,Aretha Franklin,4
+1960,1968,I Heard It Through the Grapevine,Marvin Gaye,5
+1960,1966,Good Vibrations,The Beach Boys,6
+1960,1965,Like a Rolling Stone,Bob Dylan,7
+1960,1968,(Sittin’ on) The Dock of the Bay,Otis Redding,8
+1960,1965,Yesterday,The Beatles,9
+1960,1964,The House of the Rising Sun,The Animals,10
+1960,1961,Stand by Me,Ben E. King,11
+1960,1964,(Oh) Pretty Woman,Roy Orbison,12
+1960,1964,You’ve Lost That Lovin’ Feelin’,The Righteous Brothers,13
+1960,1965,Unchained Melody,The Righteous Brothers,14
+1960,1960,The Twist,Chubby Checker,15
+1960,1967,A Whiter Shade of Pale,Procol Harum,16
+1960,1963,Louie Louie,The Kingsmen,17
+1960,1967,Light My Fire,The Doors,18
+1960,1964,My Girl,The Temptations,19
+1960,1967,Brown-Eyed Girl,Van Morrison,20
+1960,1965,My Generation,The Who,21
+1960,1964,You Really Got Me,The Kinks,22
+1960,1963,Be My Baby,The Ronettes,23
+1960,1969,Suspicious Minds,Elvis Presley,24
+1960,1968,All Along the Watchtower,The Jimi Hendrix Experience,25
+1960,1963,She Loves You,The Beatles,26
+1960,1962,I Can’t Stop Loving You,Ray Charles,27
+1960,1966,When a Man Loves a Woman,Percy Sledge,28
+1960,1966,I’m a Believer,The Monkees,29
+1960,1967,What a Wonderful World,Louis Armstrong,30
+1960,1960,Georgia on My Mind,Ray Charles,31
+1960,1960,It’s Now or Never,Elvis Presley,32
+1960,1965,The Sounds of Silence,Simon & Garfunkel,33
+1960,1966,God Only Knows,The Beach Boys,34
+1960,1969,Proud Mary,Creedence Clearwater Revival,35
+1960,1969,Honky Tonk Women,The Rolling Stones,36
+1960,1964,Dancing in the Street,Martha & the Vandellas,37
+1960,1967,A Day in the Life,The Beatles,38
+1960,1966,Reach Out (I’ll Be There),Four Tops,39
+1960,1967,Strawberry Fields Forever,The Beatles,40
+1960,1961,Runaway,Del Shannon,41
+1960,1969,I Want You Back,The Jackson 5,42
+1960,1960,Are You Lonesome Tonight?,Elvis Presley,43
+1960,1961,Crazy,Patsy Cline,44
+1960,1967,Nights in White Satin,The Moody Blues,45
+1960,1968,Mrs. Robinson,Simon & Garfunkel,46
+1960,1965,Mr. Tambourine Man,The Byrds,47
+1960,1966,Paint It Black,The Rolling Stones,48
+1960,1966,California Dreamin’,The Mamas & the Papas,49
+1960,1969,"Sugar, Sugar",The Archies,50
+1960,1968,Born to Be Wild,Steppenwolf,51
+1960,1967,Purple Haze,The Jimi Hendrix Experience,52
+1960,1965,Help!,The Beatles,53
+1960,1967,For What It’s Worth,Buffalo Springfield,54
+1960,1969,Aquarius/Let the Sunshine In,The 5th Dimension,55
+1960,1969,Space Oddity,David Bowie,56
+1960,1965,The Tracks of My Tears,The Miracles,57
+1960,1969,Whole Lotta Love,Led Zeppelin,58
+1960,1969,Get Back,The Beatles with Billy Preston,59
+1960,1968,Jumpin’ Jack Flash,The Rolling Stones,60
+1960,1969,Something,The Beatles,61
+1960,1968,Sympathy for the Devil,The Rolling Stones,62
+1960,1960,Will You Love Me Tomorrow,The Shirelles,63
+1960,1967,Penny Lane,The Beatles,64
+1960,1964,It’s a Small World After All,The Disneyland Chorus,65
+1960,1965,Stop! In the Name of Love,The Supremes,66
+1960,1964,Can’t Buy Me Love,The Beatles,67
+1960,1964,Baby Love,The Supremes,68
+1960,1961,Moon River,Henry Mancini with Audrey Hepburn,69
+1960,1961,Can’t Help Falling in Love,Elvis Presley,70
+1960,1964,Where Did Our Love Go,The Supremes,71
+1960,1965,A Change Is Gonna Come,Sam Cooke,72
+1960,1962,I Left My Heart in San Francisco,Tony Bennett,73
+1960,1963,Blowin’ in the Wind,Bob Dylan,74
+1960,1962,The Loco-Motion,Little Eva,75
+1960,1960,Cathy’s Clown,The Everly Brothers,76
+1960,1965,I Got You (I Feel Good) ,James Brown,77
+1960,1969,Raindrops Keep Fallin’ on My Head,B.J. Thomas,78
+1960,1961,At Last,Etta James,79
+1960,1967,The Letter,The Box Tops,80
+1960,1965,In My Life,The Beatles,81
+1960,1964,A Hard Day’s Night,The Beatles,82
+1960,1965,Papa’s Got a Brand New Bag,James Brown,83
+1960,1960,Save the Last Dance for Me,The Drifters,84
+1960,1966,Strangers in the Night,Frank Sinatra,85
+1960,1967,White Rabbit,Jefferson Airplane,86
+1960,1963,Twist and Shout,The Beatles,87
+1960,1966,"River Deep, Mountain High",Ike & Tina Turner,88
+1960,1962,Green Onions,Booker T. & the MG’s,89
+1960,1969,My Way,Frank Sinatra,90
+1970,1975,Bohemian Rhapsody,Queen ,1
+1970,1971,Imagine,John Lennon ,2
+1970,1970,Bridge Over Troubled Water,Simon & Garfunkel ,3
+1970,1976,Hotel California,Eagles ,4
+1970,1977,Stayin’ Alive,Bee Gees ,5
+1970,1971,Stairway to Heaven,Led Zeppelin ,6
+1970,1971,American Pie,Don McLean ,7
+1970,1970,Let It Be,The Beatles ,8
+1970,1970,Layla,Derek & the Dominos ,9
+1970,1976,Dancing Queen,Abba ,10
+1970,1975,Born to Run,Bruce Springsteen ,11
+1970,1978,I Will Survive,Gloria Gaynor ,12
+1970,1971,What’s Going On,Marvin Gaye ,13
+1970,1972,Superstition,Stevie Wonder ,14
+1970,1979,Another Brick in the Wall Part II,Pink Floyd ,15
+1970,1971,Maggie May,Rod Stewart ,16
+1970,1970,Your Song,Elton John ,17
+1970,1978,Le Freak,Chic ,18
+1970,1970,My Sweet Lord,George Harrison ,19
+1970,1977,You Light Up My Life,Debby Boone ,20
+1970,1979,Heart of Glass,Blondie ,21
+1970,1971,Let’s Stay Together,Al Green ,22
+1970,1973,Killing Me Softly with His Song,Roberta Flack ,23
+1970,1978,Y.M.C.A,.Village People ,24
+1970,1978,Night Fever,Bee Gees,25
+1970,1973,Tie a Yellow Ribbon ‘Round the Ole Oak Tree,Tony Orlando & Dawn ,26
+1970,1977,How Deep Is Your Love,Bee Gees,27
+1970,1972,The First Time Ever I Saw Your Face,Roberta Flack ,28
+1970,1973,The Way We Were,Barbra Streisand ,29
+1970,1978,You’re the One That I Want,Olivia Newton-John & John Travolta,30
+1970,1979,London Calling,The Clash ,31
+1970,1974,Sweet Home Alabama,Lynyrd Skynyrd ,32
+1970,1975,"No Woman, No Cry",Bob Marley & the Wailers ,33
+1970,1979,My Sharona,The Knack ,34
+1970,1973,Let’s Get It On,Marvin Gaye ,35
+1970,1971,Without You,Harry Nilsson ,36
+1970,1973,Free Bird,Lynyrd Skynrd ,37
+1970,1974,Seasons in the Sun,Terry Jacks ,38
+1970,1976,Tonight’s the Night (Gonna Be Alright),Rod Stewart ,39
+1970,1976,Anarchy in the U.K,.Sex Pistols ,40
+1970,1971,Won’t Get Fooled Again,The Who ,41
+1970,1977,Go Your Own Way,Fleetwood Mac ,42
+1970,1979,Sultans of Swing,Dire Straits ,43
+1970,1971,Joy to the World,Three Dog Night ,44
+1970,1975,Love Will Keep Us Together,Captain & Tennille ,45
+1970,1972,Walk on the Wild Side,Lou Reed ,46
+1970,1978,Three Times a Lady,Commodores ,47
+1970,1972,You’re So Vain,Carly Simon ,48
+1970,1971,It’s Too Late,Carole King ,49
+1970,1970,Fire and Rain,James Taylor ,50
+1970,1970,I’ll Be There,The Jackson 5 ,51
+1970,1971,Theme from Shaft,Isaac Hayes ,52
+1970,1977,Heroes,David Bowie ,53
+1970,1971,Brown Sugar,The Rolling Stones ,54
+1970,1979,We Are Family,Sister Sledge ,55
+1970,1979,Don’t Stop ‘Til You Get Enough,Michael Jackson ,56
+1970,1974,Piano Man,Billy Joel ,57
+1970,1972,Alone Again (Naturally),Gilbert O’Sullivan ,58
+1970,1977,God Save the Queen,Sex Pistols ,59
+1970,1976,Play That Funky Music,Wild Cherry ,60
+1970,1979,Rapper’s Delight,The Sugarhill Gang ,61
+1970,1970,Paranoid,Black Sabbath ,62
+1970,1974,I Honestly Love You,Olivia Newton-John,63
+1970,1973,You Are the Sunshine of My Life,Stevie Wonder ,64
+1970,1978,Baker Street,Gerry Rafferty ,65
+1970,1977,Just the Way You Are,Billy Joel ,66
+1970,1977,Dreams,Fleetwood Mac ,67
+1970,1978,Shadow Dancing,Andy Gibb,68
+1970,1979,Good Times,Chic ,69
+1970,1979,Comfortably Numb,Pink Floyd ,70
+1970,1973,Midnight Train to Georgia,Gladys Knight & the Pips ,71
+1970,1973,Angie,The Rolling Stones ,72
+1970,1970,They Long to Be Close to You,Carpenters ,73
+1970,1976,Don’t Go Breaking My Heart,Elton John & Kiki Dee ,74
+1970,1977,We Will Rock You/We Are the Champions,Queen ,75
+1970,1973,Dream On,Aerosmith ,76
+1970,1978,Old Time Rock and Roll,Bob Seger & the Silver Bullet Band ,77
+1970,1970,In the Summertime,Mungo Jerry ,78
+1970,1976,More Than a Feeling,Boston ,79
+1970,1973,Smoke on the Water,Deep Purple ,80
+1970,1979,Crazy Little Thing Called Love,Queen ,81
+1970,1979,Hot Stuff,Donna Summer ,82
+1970,1971,Just My Imagination Running Away with Me,The Temptations ,83
+1970,1971,Baba O’Riley,The Who,84
+1970,1978,Da Ya Think I’m Sexy?,Rod Stewart ,85
+1970,1972,Papa Was a Rolling Stone,The Temptations,86
+1970,1970,Lola,The Kinks ,87
+1970,1973,Goodbye Yellow Brick Road,Elton John ,88
+1970,1970,All Right Now,Free ,89
+1970,1971,Changes,David Bowie ,90
+1980,1982,Billie Jean,Michael Jackson,1
+1980,1983,Every Breath You Take,The Police,2
+1980,1987,Sweet Child O’ Mine,Guns N’ Roses,3
+1980,1984,When Doves Cry,Prince,4
+1980,1981,I Love Rock and Roll,Joan Jett & the Blackhearts,5
+1980,1987,With or Without You,U2,6
+1980,1986,Livin’ on a Prayer,Bon Jovi,7
+1980,1981,Endless Love,Lionel Richie & Diana Ross,8
+1980,1984,Jump,Van Halen,9
+1980,1983,Beat It,Michael Jackson,10
+1980,1980,You Shook Me All Night Long,AC/DC,11
+1980,1980,Love Will Tear Us Apart,Joy Division,12
+1980,1981,Don’t Stop Believin’,Journey,13
+1980,1982,Eye of the Tiger,Survivor,14
+1980,1985,We Are the World,U.S.A. for Africa,15
+1980,1981,Don’t You Want Me?,The Human League,16
+1980,1989,Like a Prayer,Madonna,17
+1980,1981,Tainted Love,Soft Cell,18
+1980,1987,I Wanna Dance with Somebody Who Loves Me,Whitney Houston,19
+1980,1981,Bette Davis Eyes,Kim Carnes,20
+1980,1980,Another One Bites the Dust,Queen,21
+1980,1980,Celebration,Kool & the Gang,22
+1980,1984,Take on Me,Aha,23
+1980,1980,Call Me,Blondie,24
+1980,1983,Blue Monday,New Order,25
+1980,1987,I Still Haven’t Found What I’m Looking For,U2,26
+1980,1984,I Want to Know What Love Is,Foreigner,27
+1980,1982,Come on Eileen,Dexy’s Midnight Runner,28
+1980,1981,Physical,Olivia Newton-John,29
+1980,1983,Girls Just Want to Have Fun,Cyndi Lauper,30
+1980,1983,Sweet Dreams Are Made of This,Eurythmics,31
+1980,1982,The Message,Grandmaster Flash & the Furious Five,32
+1980,1986,Walk This Way,Run-D.M.C. with Steven Tyler & Joe Perry,33
+1980,1980,Lady,Kenny Rogers,34
+1980,1985,Everybody Wants to Rule the World,Tears for Fears,35
+1980,1982,Always on My Mind,Willie Nelson,36
+1980,1983,All Night Long (All Night),Lionel Richie,37
+1980,1984,Careless Whisper,George Michael,38
+1980,1983,Relax,Frankie Goes to Hollywood,39
+1980,1986,Kiss,Prince & the Revolution,40
+1980,1981,Down Under,Men at Work,41
+1980,1980,Funkytown,Lipps Inc.,42
+1980,1984,What’s Love Got to Do with It?,Tina Turner,43
+1980,1983,Irene Cara “Flashdance,What a Feelin’” ,44
+1980,1984,Purple Rain,Prince & the Revolution,45
+1980,1984,I Just Called to Say I Love You,Stevie Wonder,46
+1980,1987,Pour Some Sugar on Me,Def Leppard,47
+1980,1984,Like a Virgin,Madonna,48
+1980,1989,Love Shack,The B-52’s,49
+1980,1980,Back in Black,AC/DC,50
+1980,1980,Upside Down,Diana Ross,51
+1980,1985,Money for Nothing,Dire Straits,52
+1980,1983,Total Eclipse of the Heart,Bonnie Tyler,53
+1980,1987,Welcome to the Jungle,Guns N’ Roses,54
+1980,1984,Do They Know It’s Christmas? ,Band Aid,55
+1980,1984,Born in the U.S.A.,Bruce Springsteen,56
+1980,1984,Footloose,Kenny Loggins,57
+1980,1983,Time After Time,Cyndi Lauper,58
+1980,1986,Sledgehammer,Peter Gabriel,59
+1980,1987,I’ve Had the Time of My Life,Bill Medley & Jennifer Warnes,60
+1980,1985,Don’t You Forget about Me,Simple Minds,61
+1980,1984,Pride (In the Name of Love),U2,62
+1980,1981,Jessie’s Girl,Rick Springfield,63
+1980,1983,Let’s Dance,David Bowie,64
+1980,1981,In the Air Tonight,Phil Collins,65
+1980,1989,Another Day in Paradise,Phil Collins,66
+1980,1988,Fast Car,Tracy Chapman,67
+1980,1982,Thriller,Michael Jackson,68
+1980,1984,How Soon Is Now?,The Smiths,69
+1980,1984,Dancing in the Dark,Bruce Springsteen,70
+1980,1989,Fight the Power,Public Enemy,71
+1980,1981,Super Freak,Rick James,72
+1980,1981,Start Me Up,The Rolling Stones,73
+1980,1989,Free Fallin’,Tom Petty,74
+1980,1982,Sexual Healing,Marvin Gaye,75
+1980,1987,Here I Go Again,Whitesnake,76
+1980,1980,9 to 5,Dolly Parton,77
+1980,1983,Islands in the Stream,Kenny Rogers & Dolly Parton,78
+1980,1984,Summer of ‘69,Bryan Adams,79
+1980,1985,Take My Breath Away,Berlin,80
+1980,1982,Jack and Diane,John Cougar Mellencamp,81
+1980,1985,That's What Friends Are For,"Dionne & Friends (Dionne Warwick with Elton John, Gladys Knight, & Stevie Wonder)",82
+1980,1981,Centerfold,J. Geils Band,83
+1980,1987,Faith,George Michael,84
+1980,1986,You Gotta Fight for Your Right to Party,Beastie Boys,85
+1980,1980,Once in a Lifetime,Talking Heads,86
+1980,1984,Shout,Tears for Fears,87
+1980,1982,Africa,Toto,88
+1980,1984,Against All Odds (Take a Look at Me Now) ,Phil Collins,89
+1980,1985,,Pet Shop Boys,90
+1980,1981,Under Pressure,Queen with David Bowie,91
+1980,1987,Need You Tonight,INXS,92
+1980,1982,Hungry Like the Wolf,Duran Duran,93
+1980,1987,Never Gonna Give You Up,Rick Astley,94
+1980,1982,Do You Really Want to Hurt Me?,Culture Club,95
+1980,1986,Walk Like an Egyptian,Bangles,96
+1980,1983,Sunday Bloody Sunday,U2,97
+1980,1988,Every Rose Has Its Thorn,Poison,98
+1980,1985,"Say You, Say Me",Lionel Richie,99
+1980,1980,Keep on Loving You,REO Speedwagon,100
+1990,1992,I Will Always Love You,Whitney Houston,1
+1990,1991,Smells Like Teen Spirit,Nirvana,2
+1990,1991,(Everything I Do) I Do It for You,Bryan Adams,3
+1990,1990,Nothing Compares 2 U,Sinéad O’Connor,4
+1990,1997,My Heart Will Go On,Celine Dion,5
+1990,1997,Candle in the Wind 1997 (Goodbye England’s Rose),Elton John,6
+1990,1991,Losing My Religion,R.E.M.,7
+1990,1995,Wonderwall,Oasis,8
+1990,1995,Macarena (Bayside Boys Mix),Los Del Rio,9
+1990,1991,One,U2,10
+1990,1998,Baby One More Time,Britney Spears,11
+1990,1996,Wannabe,Spice Girls,12
+1990,1997,Bitter Sweet Symphony,The Verve,13
+1990,1999,Smooth,Santana with Rob Thomas,14
+1990,1998,I Don’t Want to Miss a Thing,Aerosmith,15
+1990,1994,I’ll Make Love to You,Boyz II Men,16
+1990,1993,Creep,Radiohead,17
+1990,1995,Gangsta’s Paradise,Coolio with L.V.,18
+1990,1998,Iris,Goo Goo Dolls,19
+1990,1992,Under the Bridge,Red Hot Chili Peppers,20
+1990,1998,Believe,Cher,21
+1990,1997,I’ll Be Missing You,Puff Daddy with Faith Evans & 112,22
+1990,1995,One Sweet Day,Mariah Carey with Boyz II Men,23
+1990,1998,You’re Still the One,Shania Twain,24
+1990,1992,End of the Road,Boyz II Men,25
+1990,1996,Because You Loved Me,Celine Dion,26
+1990,1993,Loser,Beck,27
+1990,1992,Jeremy,Pearl Jam,28
+1990,1996,Don’t Speak,No Doubt,29
+1990,1990,Vogue,Madonna,30
+1990,1992,Tears in Heaven,Eric Clapton,31
+1990,1994,Live Forever,Oasis,32
+1990,1995,You Oughta Know,Alanis Morissette,33
+1990,1992,Baby Got Back,Sir Mix-A-Lot,34
+1990,1997,Torn,Natalie Imbruglia,35
+1990,1999,Amazed,Lonestar,36
+1990,1995,Waterfalls,TLC,37
+1990,1994,Kiss from a Rose,Seal,38
+1990,1996,Un-Break My Heart,Toni Braxton,39
+1990,1991,Enter Sandman,Metallica,40
+1990,1994,All I Want for Christmas Is You,Mariah Carey,41
+1990,1990,U Can’t Touch This,MC Hammer,42
+1990,1993,I’d Do Anything for Love (But I Won’t Do That),Meat Loaf,43
+1990,1995,Common People,Pulp,44
+1990,1993,Everybody Hurts,R.E.M.,45
+1990,1990,Friends in Low Places,Garth Brooks,46
+1990,1991,November Rain,Guns N’ Roses,47
+1990,1996,Ironic,Alanis Morissette,48
+1990,1994,I Swear,All-4-One,49
+1990,1990,Ice Ice Baby,Vanilla Ice,50
+1990,1999,Livin’ La Vida Loca,Ricky Martin,51
+1990,1997,Song 2,Blur,52
+1990,1993,That’s the Way Love Goes,Janet Jackson,53
+1990,1997,"Truly, Madly, Deeply",Savage Garden,54
+1990,1999,No Scrubs,TLC,55
+1990,1993,All I Wanna Do,Sheryl Crow,56
+1990,1999,Lou Bega “Mambo No. 5 (A Little Bit of,)” ,57
+1990,1991,King,Cole “Unforgettable”,58
+1990,1994,Black Hole Sun,Soundgarden,59
+1990,1997,Good Riddance (Time of Your Life),Green Day,60
+1990,1994,Streets of Philadelphia,Bruce Springsteen,61
+1990,1990,Vision of Love,Mariah Carey,62
+1990,1994,The Sign,Ace of Base,63
+1990,1991,Alive,Pearl Jam,64
+1990,1994,Hallelujah,Jeff Buckley,65
+1990,1996,Don’t Look Back in Anger,Oasis,66
+1990,1995,Champagne Supernova,Oasis,67
+1990,1997,Mmmbop,Hanson,68
+1990,1991,Come As You Are,Nirvana,69
+1990,1998,The Boy Is Mine,Brandy & Monica,70
+1990,1992,A Whole New World,Peabo Bryson with Regina Belle,71
+1990,1990,Gonna Make You Sweat (Everybody Dance Now),C + C Music Factory,72
+1990,1992,Jump,Kris Kross,73
+1990,1990,Enjoy the Silence,Depeche Mode,74
+1990,1998,Doo Wop (That Thing),Lauryn Hill,75
+1990,1992,Achy Breaky Heart,Billy Ray Cyrus,76
+1990,1995,This Is How We Do It,Montell Jordan,77
+1990,1994,Take a Bow,Madonna,78
+1990,1999,Say My Name,Destiny’s Child,79
+1990,1992,Jump Around,House of Pain,80
+1990,1994,Bakset Case,Green Day,81
+1990,1995,Fantasy,Mariah Carey,82
+1990,1992,Nuthin’ But a G Thang,Dr. Dre with Snoop Doggy Dogg,83
+1990,1995,No Diggity,Blackstreet with Dr. Dre,84
+1990,1993,Dreamlover,Mariah Carey,85
+1990,1996,I Believe I Can Fly,R. Kelly,86
+1990,1996,I Love You Always Forever,Donna Lewis,87
+1990,1997,How Do I Live,LeAnn Rimes,88
+1990,1999,I Want It That Way,Backstreet Boys,89
+1990,1992,Save the Best for Last,Vanessa Williams,90
+1990,1991,Black or White,Michael Jackson,91
+1990,1995,1979,Smashing Pumpkins,92
+1990,1997,Paranoid Android,Radiohead,93
+1990,1993,Heart Shaped Box,Nirvana,94
+1990,1993,Hero,Mariah Carey,95
+1990,1993,All Apologies,Nirvana,96
+1990,1997,Tubthumping,Chumbawamba,97
+1990,1990,It Must Have Been Love,Roxette,98
+1990,1999,With Arms Wide Open,Creed,99
+1990,1997,Angels,Robbie Williams,100
+2010,2014,Uptown Funk!,Mark Ronson with Bruno Mars,1
+2010,2017,Shape of You,Ed Sheeran,2
+2010,2010,Rolling in the Deep,Adele,3
+2010,2017,Despacito,Luis Fonsi with Daddy Yankee & Justin Bieber,4
+2010,2011,Somebody That I Used to Know,Gotye with Kimbra,5
+2010,2013,Happy,Pharrell Williams,6
+2010,2015,Hello,Adele,7
+2010,2013,Blurred Lines,Robin Thicke with T.I. & Pharrell Williams,8
+2010,2018,Old Town Road,Lil Nas X with Billy Ray Cyrus,9
+2010,2015,See You Again,Wiz Khalifa with Charlie Puth,10
+2010,2016,Closer,The Chainsmokers with Halsey,11
+2010,2011,Party Rock Anthem,LMFAO with Lauren Bennett & GoonRock,12
+2010,2011,Call Me Maybe,Carly Rae Jepsen,13
+2010,2013,Royals,Lorde,14
+2010,2010,Love the Way You Lie,Eminem with Rihanna,15
+2010,2017,Perfect,Ed Sheeran with Beyoncé,16
+2010,2011,We Found Love,Rihanna with Calvin Harris,17
+2010,2010,Just the Way You Are (Amazing),Bruno Mars,18
+2010,2011,Moves Like Jagger,Maroon 5 with Christina Aguilera,19
+2010,2014,Shake It Off,Taylor Swift,20
+2010,2012,Thrift Shop,Macklemore & Ryan Lewis with Wanz,21
+2010,2014,Thinking Out Loud,Ed Sheeran,22
+2010,2011,Someone Like You,Adele,23
+2010,2018,God’s Plan,Drake,24
+2010,2013,Roar,Katy Perry,25
+2010,2016,One Dance,Drake with Wizkid & Kyla,26
+2010,2017,Girls Like You,Maroon 5 with Cardi B,27
+2010,2017,Havana,Camila Cabello with Young Thug,28
+2010,2013,All of Me,John Legend,29
+2010,2012,Gangnam Style,Psy,30
+2010,2014,All About That Bass,Meghan Trainor,31
+2010,2013,Get Lucky,Daft Punk with Pharrell Williams ,32
+2010,2010,Firework,Katy Perry,33
+2010,2019,Bad Guy,Billie Eilish,34
+2010,2015,Love Yourself,Justin Bieber,35
+2010,2011,We Are Young,Fun. with Janelle Monae,36
+2010,2014,Blank Space,Taylor Swift,37
+2010,2014,Stay with Me,Sam Smith,38
+2010,2016,Can’t Stop the Feeling!,Justin Timberlake,39
+2010,2015,Sorry,Justin Bieber,40
+2010,2010,California Gurls,Katy Perry with Snoop Dogg,41
+2010,2013,Counting Stars,One Republic,42
+2010,2015,Can’t Feel My Face,The Weeknd,43
+2010,2017,Rockstar,Post Malone with 21 Savage,44
+2010,2010,Fuck You (aka “Forget You,Cee-Lo Green,45
+2010,2013,Wake Me Up!,Avicii with Aloe Blacc,46
+2010,2013,Dark Horse,Katy Perry with Juicy J,47
+2010,2018,Shallow,Lady Gaga & Bradley Cooper,48
+2010,2016,Cheap Thrills,Sia with Sean Paul,49
+2010,2014,Fancy,Iggy Azalea & Charli XCX,50
+2010,2016,Work,Rihanna with Drake,51
+2010,2017,Something Just Like This,The Chainsmokers with Coldplay,52
+2010,2013,Rude,Magic!,53
+2010,2015,7 Years,Lukas Graham,54
+2010,2012,Radioactive,Imagine Dragons,55
+2010,2015,What Do You Mean?,Justin Bieber,56
+2010,2010,Grenade,Bruno Mars,57
+2010,2011,Sexy and I Know It,LMFAO,58
+2010,2019,Señorita,Shawn Mendes with Camila Cabello,59
+2010,2012,Let Her Go,Passenger,60
+2010,2015,The Hills,The Weeknd,61
+2010,2016,That’s What I Like,Bruno Mars,62
+2010,2018,In My Feelings,Drake,63
+2010,2010,Only Girl in the World,Rihanna,64
+2010,2019,7 Rings,Ariana Grande,65
+2010,2012,Just Give Me a Reason,Pink with Nate Ruess,66
+2010,2011,Give Me Everything,"Pitbull with Ne-Yo, Afrojack & Nayer",67
+2010,2014,Cheerleader (Felix Jaehn remix),OMI,68
+2010,2014,Sugar,Maroon 5,69
+2010,2015,Stressed Out,Twenty One Pilots,70
+2010,2011,Can’t Hold Us,Macklemore & Ryan Lewis with Ray Dalton,71
+2010,2015,Hotline Bling,Drake,72
+2010,2011,Born This Way,Lady Gaga,73
+2010,2012,Diamonds,Rihanna,74
+2010,2015,Love Me Like You Do,Ellie Goulding,75
+2010,2012,Ho Hey,The Lumineers,76
+2010,2016,Starboy,The Weeknd with Daft Punk,77
+2010,2013,Let It Go,Idina Menzel,78
+2010,2012,Locked Out of Heaven,Bruno Mars,79
+2010,2018,"Thank U, Next",Ariana Grande,80
